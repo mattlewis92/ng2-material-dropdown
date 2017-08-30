@@ -87,6 +87,7 @@
   },
   "homepage": "https://github.com/Gbuomprisco/ng2-material-dropdown",
   "main": "./dist/ng2-dropdown.bundle.js",
+  "module": "./dist/index.js",
   "files": [
     "dist",
     "tsconfig.json",
